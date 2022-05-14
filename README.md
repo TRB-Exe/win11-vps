@@ -16,5 +16,5 @@ Vps only working **~1 hour**. This is a **temporary** vps!! After shutting down 
 Use any RDP client, connect with your ip address from your ngrok dashboard.
 ```
 Username: runneradmin
-Password: vps22822
+Password: Vps228228.
 ```
