@@ -8,7 +8,7 @@ Windows Server 2022 vps hosted on Github Actions
 5. Name your secret as `NGROK_AUTH_TOKEN`
 6. In value, put your token from [this page](http://dashboard.ngrok.com/get-started/your-authtoken)
 7. Now go to Actions tab and select windowsservervps
-8. Start and wait 2-3 minutes.
+8. Run workflow and wait 2-3 minutes.
 9. Go to your [ngrok dashboard](https://dashboard.ngrok.com/cloud-edge/endpoints) and copy address.
 # Some information
 Vps only working **~1 hour**. This is a **temporary** vps!! After shutting down server, all data has been deleted!!!!
@@ -16,5 +16,5 @@ Vps only working **~1 hour**. This is a **temporary** vps!! After shutting down 
 Use any RDP client, connect with your ip address from your ngrok dashboard.
 ```
 Username: runneradmin
-Password: Vps228228.
+Password: VpsWinserv
 ```
