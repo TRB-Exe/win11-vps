@@ -16,6 +16,6 @@ Vps only working **~1 hour**. This is a **temporary** vps!! After shutting down 
 Use any RDP client, connect with your ip address from your ngrok dashboard.
 ```
 Username: runneradmin
-Password: VpsWinserv
+Password: VpsWinserv228666
 ```
 If you have an error with starting actions, change the password in .github/workflows and edit the file with action
