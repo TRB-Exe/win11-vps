@@ -18,3 +18,4 @@ Use any RDP client, connect with your ip address from your ngrok dashboard.
 Username: runneradmin
 Password: VpsWinserv
 ```
+If you have an error with starting actions, change the password in .github/workflows and edit the file with action
